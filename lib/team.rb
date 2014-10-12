@@ -3,7 +3,7 @@ class Team
 
   def initialize(goalkeeper:, defence:, midfield:, attack:)
     @goalkeeper = goalkeeper
-    @defence = defence
+    @defence = sorted_defence(defence)
     @midfield = midfield
     @attack = attack
   end
@@ -20,6 +20,19 @@ class Team
 
   def players
     [goalkeeper] + defence + midfield + attack
+  end
+
+  def sorted_defence(players)
+    sorted = []
+    if right_back = players.detect(&:right_back?)
+      sorted << right_back
+      sorted += players.select { |player| !player.full_back? }
+      sorted << players.detect(&:left_back?)
+    else
+      sorted = players
+    end
+
+    sorted
   end
 
 end
