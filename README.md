@@ -26,6 +26,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 ```
 +---------------------------------------------------------------------------------+
+| Rating: 940                                                                     |
++---------------------------------------------------------------------------------+
 |                                Stéphane Ruffier                                 |
 |                                                                                 |
 |                 Sergio Ramos - Marcos Rojo - Gonzalo Rodríguez                  |
@@ -36,6 +38,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +---------------------------------------------------------------------------------+
 
 
++------------------------------------------------------------------------------+
+| Rating: 939                                                                  |
 +------------------------------------------------------------------------------+
 |                                Steve Mandanda                                |
 |                                                                              |
@@ -48,6 +52,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +-------------------------------------------------------------------------+
+| Rating: 931                                                             |
++-------------------------------------------------------------------------+
 |                            Salvatore Sirigu                             |
 |                                                                         |
 |                 Thiago Silva - Neven Subotić - Sokratis                 |
@@ -58,6 +64,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +-------------------------------------------------------------------------+
 
 
++--------------------------------------------------------------------+
+| Rating: 918                                                        |
 +--------------------------------------------------------------------+
 |                           Claudio Bravo                            |
 |                                                                    |
@@ -70,6 +78,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +----------------------------------------------------------------------------+
+| Rating: 916                                                                |
++----------------------------------------------------------------------------+
 |                              Thibaut Courtois                              |
 |                                                                            |
 |              Giorgio Chiellini - Leandro Castán - Gary Cahill              |
@@ -80,6 +90,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +----------------------------------------------------------------------------+
 
 
++----------------------------------------------------------+
+| Rating: 913                                              |
 +----------------------------------------------------------+
 |                     Samir Handanovič                     |
 |                                                          |
@@ -92,6 +104,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +---------------------------------------------------------+
+| Rating: 908                                             |
++---------------------------------------------------------+
 |                       Hugo Lloris                       |
 |                                                         |
 |          David Luiz - Luisão - Aymeric Laporte          |
@@ -102,6 +116,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +---------------------------------------------------------+
 
 
++---------------------------------------------------------------------+
+| Rating: 906                                                         |
 +---------------------------------------------------------------------+
 |                               De Gea                                |
 |                                                                     |
@@ -114,6 +130,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +--------------------------------------------------------------+
+| Rating: 903                                                  |
++--------------------------------------------------------------+
 |                         Manuel Neuer                         |
 |                                                              |
 |           Naldo - Nicolas Nkoulou - David Navarro            |
@@ -124,6 +142,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +--------------------------------------------------------------+
 
 
++---------------------------------------------------------------+
+| Rating: 901                                                   |
 +---------------------------------------------------------------+
 |                         Rui Patrício                          |
 |                                                               |
@@ -136,6 +156,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +--------------------------------------------------+
+| Rating: 901                                      |
++--------------------------------------------------+
 |                   Onur Kivrak                    |
 |                                                  |
 | Vincent Kompany - Laurent Koscielny - Simon Kjær |
@@ -146,6 +168,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +--------------------------------------------------+
 
 
++----------------------------------------------------+
+| Rating: 901                                        |
 +----------------------------------------------------+
 |                    Kevin Trapp                     |
 |                                                    |
@@ -158,6 +182,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +------------------------------------------------+
+| Rating: 900                                    |
++------------------------------------------------+
 |                 Igor Akinfeev                  |
 |                                                |
 | Dani Alves - Alex - Daniel Agger - David Alaba |
@@ -168,6 +194,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +------------------------------------------------+
 
 
++----------------------------------------------------+
+| Rating: 895                                        |
 +----------------------------------------------------+
 |                 Morgan De Sanctis                  |
 |                                                    |
@@ -180,6 +208,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +----------------------------------------------------------+
+| Rating: 895                                              |
++----------------------------------------------------------+
 |                         Iraizoz                          |
 |                                                          |
 | Branislav Ivanović - Sergey Ignashevich - Emiliano Insua |
@@ -190,6 +220,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +----------------------------------------------------------+
 
 
++-------------------------------------------------------------------------------------+
+| Rating: 892                                                                         |
 +-------------------------------------------------------------------------------------+
 |                                    Brad Friedel                                     |
 |                                                                                     |
@@ -202,6 +234,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +---------------------------------------------------------------------------------+
+| Rating: 892                                                                     |
++---------------------------------------------------------------------------------+
 |                                   Michel Vorm                                   |
 |                                                                                 |
 |                 Nemanja Vidić - Jan Vertonghen - Raphaël Varane                 |
@@ -212,6 +246,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +---------------------------------------------------------------------------------+
 
 
++-----------------------------------------------------------------+
+| Rating: 871                                                     |
 +-----------------------------------------------------------------+
 |                         Vincent Enyeama                         |
 |                                                                 |
@@ -224,6 +260,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +----------------------------------------------------------------------------+
+| Rating: 870                                                                |
++----------------------------------------------------------------------------+
 |                             Roman Weidenfeller                             |
 |                                                                            |
 |              Ashley Williams - Weligton - Philipp Wollscheid               |
@@ -234,6 +272,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +----------------------------------------------------------------------------+
 
 
++-------------------------------------------------------------+
+| Rating: 860                                                 |
 +-------------------------------------------------------------+
 |                       Guillermo Ochoa                       |
 |                                                             |
@@ -246,6 +286,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +--------------------------------------------------------+
+| Rating: 857                                            |
++--------------------------------------------------------+
 |                         Jaime                          |
 |                                                        |
 | Juanfran - Phil Jagielka - Phil Jones - Marcell Jansen |
@@ -256,6 +298,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +--------------------------------------------------------+
 
 
++-------------------------------------------------------------------------+
+| Rating: 844                                                             |
 +-------------------------------------------------------------------------+
 |                              Tolga Zengin                               |
 |                                                                         |
@@ -268,6 +312,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +---------------------------------------------------------------+
+| Rating: 827                                                   |
++---------------------------------------------------------------+
 |                             Yoel                              |
 |                                                               |
 |       Mapou Yanga-M'Biwa - Mustafa Yumlu - Joseph Yobo        |
@@ -278,6 +324,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +---------------------------------------------------------------+
 
 
++-----------------------------------------------------------------------------------+
+| Rating: 813                                                                       |
 +-----------------------------------------------------------------------------------+
 |                                Mickey van der Hart                                |
 |                                                                                   |
@@ -290,6 +338,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +---------------------------------------------------------------+
+| Rating: 810                                                   |
++---------------------------------------------------------------+
 |                         Sven Ulreich                          |
 |                                                               |
 | Atsuto Uchida - Samuel Umtiti - Matthew Upson - Andreas Ulmer |
@@ -300,6 +350,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +---------------------------------------------------------------+
 
 
++--------------------------------------------------------------------------------+
+| Rating: 798                                                                    |
 +--------------------------------------------------------------------------------+
 |                                 Ramazan Özcan                                  |
 |                                                                                |
@@ -312,6 +364,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +------------------------------------------------------------------+
+| Rating: 787                                                      |
++------------------------------------------------------------------+
 |                          Dorus de Vries                          |
 |                                                                  |
 |    Boris Mahon de Monaghan - Stefan de Vrij - Marcel de Jong     |
@@ -323,6 +377,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 
 
 +------------------------------------------------------------------------+
+| Rating: 770                                                            |
++------------------------------------------------------------------------+
 |                              José Quezada                              |
 |                                                                        |
 |             Pedro Queirós - Luis Quintana - Erwan Quintin              |
@@ -333,6 +389,8 @@ Here's the top teams for surname-starting-with-same-letter. Best first.
 +------------------------------------------------------------------------+
 
 
++------------------------------------------------------------------------+
+| Rating: 751                                                            |
 +------------------------------------------------------------------------+
 |                             Korcan Çelikay                             |
 |                                                                        |

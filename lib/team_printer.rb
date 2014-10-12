@@ -9,6 +9,9 @@ class TeamPrinter
 
   def print
     table = Terminal::Table.new(
+      headings: [
+        "Rating: #{team.rating}"
+      ],
       rows: [
         [team.goalkeeper.name],
         [' '],
