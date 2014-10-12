@@ -116,5 +116,11 @@ describe Player do
 
       it { should eq('Al-Habsi') }
     end
+
+    context 'name has preposition-like element elsewhere' do
+      let(:name) { 'Hal Robson-Kanu' }
+
+      it { should eq('Robson-Kanu') }
+    end
   end
 end

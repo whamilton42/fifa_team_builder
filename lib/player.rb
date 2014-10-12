@@ -19,10 +19,10 @@ class Player < Sequel::Model
   def last_name
     regex = '((\w+ of \w+)?'
     PREPOSITIONS.each do |preposition|
-      regex << "(#{preposition}\s?)?"
+      regex << "(\s#{preposition}\s?)?"
     end
     regex << '\S+)$'
 
-    name.match(Regexp.new(regex, Regexp::IGNORECASE)).captures.first
+    name.match(Regexp.new(regex, Regexp::IGNORECASE)).captures.first.strip
   end
 end
