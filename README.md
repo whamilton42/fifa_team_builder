@@ -4,10 +4,12 @@ Inspired by a [Football Weekly episode](http://www.theguardian.com/football/blog
 
 ## Usage
 
-`bundle`
-`ruby bin/scrape.rb`
-`ruby bin/print.rb --team first_letter_of_surname`
+```
+bundle
+ruby bin/scrape.rb
+ruby bin/print.rb --team first_letter_of_surname
+```
 
 ## Data
 
-You can get ahold of the data from anywhere. I'm scraping from `http://www.futhead.com/15/players/`. Don't run the scape command too often - it's not cool.
+You can get ahold of the data from anywhere. I'm scraping from [Futhead](http://www.futhead.com/15/players). Don't run the scrape command too often - I think it's justifiable for this project, but you should still not scrape more than needed.
