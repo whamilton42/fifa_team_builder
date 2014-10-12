@@ -12,11 +12,11 @@ class TeamPrinter
       rows: [
         [team.goalkeeper.name],
         [' '],
-        [team.defence.map(&:name).join('  ---  ')],
+        [team.defence.map(&:name).join(' -- ')],
         [' '],
-        [team.midfield.map(&:name).join('  ---  ')],
+        [team.midfield.map(&:name).join(' -- ')],
         [' '],
-        [team.attack.map(&:name).join('  ---  ')]
+        [team.attack.map(&:name).join(' -- ')]
       ]
     )
 
