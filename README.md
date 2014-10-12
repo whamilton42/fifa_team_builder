@@ -19,6 +19,7 @@ You can get ahold of the data from anywhere. I'm scraping from [Futhead](http://
 * FIFA rates defenders so low that nearly all the 'best' teams come out with three at the back. 
 * Many letters can't get a team together - although interestingly *Ç* can.
 * Using the FIFA 15 data means that historical players aren't in.
+* Midfielders are not played according to their depth - i.e., whether they are an AM or DM.
 
 ## Results
 
