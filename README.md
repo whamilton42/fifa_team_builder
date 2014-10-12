@@ -19,37 +19,37 @@ You can get ahold of the data from anywhere. I'm scraping from [Futhead](http://
 Here's the top three teams for surname-starting-with-same-letter.
 
 ```
-+-------------------------------------------------------------------------------------+
-|                                  Stéphane Ruffier                                   |
-|                                                                                     |
-|                  Sergio Ramos -- Marcos Rojo -- Gonzalo Rodríguez                   |
-|                                                                                     |
-| Arjen Robben -- James Rodríguez -- Cristiano Ronaldo -- Franck Ribéry -- Marco Reus |
-|                                                                                     |
-|                           Wayne Rooney -- Giuseppe Rossi                            |
-+-------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
+|                                Stéphane Ruffier                                 |
+|                                                                                 |
+|                 Sergio Ramos - Marcos Rojo - Gonzalo Rodríguez                  |
+|                                                                                 |
+| Arjen Robben - James Rodríguez - Cristiano Ronaldo - Franck Ribéry - Marco Reus |
+|                                                                                 |
+|                          Wayne Rooney - Giuseppe Rossi                          |
++---------------------------------------------------------------------------------+
 
 
-+----------------------------------------------------------------------------------+
-|                                  Steve Mandanda                                  |
-|                                                                                  |
-|                   Javi Martinez -- Miranda -- Per Mertesacker                    |
-|                                                                                  |
-| Thomas Müller -- Ángel Di María -- Luka Modrić -- Juan Mata -- Claudio Marchisio |
-|                                                                                  |
-|                         Lionel Messi -- Mario Mandžukić                          |
-+----------------------------------------------------------------------------------+
++------------------------------------------------------------------------------+
+|                                Steve Mandanda                                |
+|                                                                              |
+|                  Javi Martinez - Miranda - Per Mertesacker                   |
+|                                                                              |
+| Thomas Müller - Ángel Di María - Luka Modrić - Juan Mata - Claudio Marchisio |
+|                                                                              |
+|                        Lionel Messi - Mario Mandžukić                        |
++------------------------------------------------------------------------------+
 
 
-+----------------------------------------------------------------------------+
-|                              Salvatore Sirigu                              |
-|                                                                            |
-|                 Thiago Silva -- Neven Subotić -- Sokratis                  |
-|                                                                            |
-| Alexis Sánchez -- Bastian Schweinsteiger -- Wesley Sneijder -- David Silva |
-|                                                                            |
-|                 Luis Suárez -- Daniel Sturridge -- Soldado                 |
-+----------------------------------------------------------------------------+
++-------------------------------------------------------------------------+
+|                            Salvatore Sirigu                             |
+|                                                                         |
+|                 Thiago Silva - Neven Subotić - Sokratis                 |
+|                                                                         |
+| Alexis Sánchez - Bastian Schweinsteiger - Wesley Sneijder - David Silva |
+|                                                                         |
+|                Luis Suárez - Daniel Sturridge - Soldado                 |
++-------------------------------------------------------------------------+
 ```
 
 ## Observations
