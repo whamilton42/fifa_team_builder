@@ -4,7 +4,7 @@ class Team
   def initialize(goalkeeper:, defence:, midfield:, attack:)
     @goalkeeper = goalkeeper
     @defence = sorted_defence(defence)
-    @midfield = midfield
+    @midfield = sorted_midfield(midfield)
     @attack = attack
   end
 
@@ -33,6 +33,14 @@ class Team
     end
 
     sorted
+  end
+
+  def sorted_midfield(players)
+    [
+      players.select(&:right_midfielder?),
+      players.select(&:central_midfielder?),
+      players.select(&:left_midfielder?),
+    ].flatten
   end
 
 end
