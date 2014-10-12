@@ -16,7 +16,7 @@ class TeamCollectionPrinter
   def call
     teams.each do |team|
       TeamPrinter.new(team).print
-      puts "\n---------\n\n"
+      puts "\n\n"
     end
   end
 

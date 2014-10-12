@@ -1,3 +1,5 @@
+require 'terminal-table'
+
 class TeamPrinter
   attr_reader :team
 
@@ -6,25 +8,20 @@ class TeamPrinter
   end
 
   def print
-    puts team.goalkeeper.name
-    
-    puts "\n"
-        
-    team.defence.each do |player|
-      puts player.name
-    end
+    table = Terminal::Table.new(
+      rows: [
+        [team.goalkeeper.name],
+        [' '],
+        [team.defence.map(&:name).join('  ---  ')],
+        [' '],
+        [team.midfield.map(&:name).join('  ---  ')],
+        [' '],
+        [team.attack.map(&:name).join('  ---  ')]
+      ]
+    )
 
-    puts "\n"
-
-    team.midfield.each do |player|
-      puts player.name
-    end
-
-    puts "\n"
-
-    team.attack.each do |player|
-      puts player.name
-    end
+    table.align_column(0, :center)
+    puts table
   end
 
 end

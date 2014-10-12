@@ -36,6 +36,7 @@ GEM
       rspec-support (~> 3.1.0)
     rspec-support (3.1.2)
     sequel (4.15.0)
+    terminal-table (1.4.5)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.6)
@@ -49,3 +50,4 @@ DEPENDENCIES
   pg
   rspec
   sequel
+  terminal-table
