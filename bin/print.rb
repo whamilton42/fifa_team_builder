@@ -33,8 +33,8 @@ when :one_name
   OneName
 when :anyone
   Anyone
-when :same_first_name
-  SameFirstName
+when :same_last_name
+  SameLastName
 end
 
 team_printer.print
