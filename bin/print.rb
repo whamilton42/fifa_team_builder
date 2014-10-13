@@ -2,6 +2,7 @@ require_relative '../config/app'
 require 'team_builders/first_letter_of_surname'
 require 'team_builders/one_name'
 require 'team_builders/anyone'
+require 'team_builders/same_last_name'
 
 team = nil
 optparse = OptionParser.new do |opts|
@@ -32,6 +33,8 @@ when :one_name
   OneName
 when :anyone
   Anyone
+when :same_first_name
+  SameFirstName
 end
 
 team_printer.print

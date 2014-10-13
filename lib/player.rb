@@ -21,6 +21,10 @@ class Player < Sequel::Model
     !!name.match(Regexp.new('^\S+$'))
   end
 
+  def first_name
+    name.match("(\S+)\s").captures.first
+  end
+
   def last_name
     regex = '((\w+ of \w+)?'
     PREPOSITIONS.each do |preposition|
